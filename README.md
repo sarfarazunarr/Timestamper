@@ -1,3 +1,3 @@
-# Timestamp Microservice
+# Timestamper Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This is a small project where you can get time from basic api that is first basic project created during Backend Development API course.
